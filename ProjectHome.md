@@ -1,0 +1,1 @@
+Connects to yahoo finance websites and fetches the latest data for the selected stock symbols
